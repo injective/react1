@@ -1,0 +1,19 @@
+{
+  "name": "react1",
+  "version": "1.0.0",
+  "description": "react learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/injective/react1.git"
+  },
+  "author": "Vadym Sereda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/injective/react1/issues"
+  },
+  "homepage": "https://github.com/injective/react1#readme"
+}
